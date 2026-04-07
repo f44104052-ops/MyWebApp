@@ -1,0 +1,42 @@
+PID: 64465 START: 1775556745483899904 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: init [sid=repo-20260407T101221Z-P0000fbd1/repo-20260407T101225Z-P0000fbd1]
+
+PID: 64465 START: 1775556745521031936 :git command None ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 64465 END: 1775556745526128128 :git command None ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 64465 END: 1775556745526295040 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: init [sid=repo-20260407T101221Z-P0000fbd1/repo-20260407T101225Z-P0000fbd1]
+
+PID: 64560 START: 1775556763855431936 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: version [sid=repo-20260407T101243Z-P0000fc30/repo-20260407T101243Z-P0000fc30]
+
+PID: 64560 START: 1775556763867121920 :git command None ['git', 'config', '--file', '/Users/martin/.gitconfig', '--includes', '--null', '--list'] with debug: : git config --file /Users/martin/.gitconfig --includes --null --list 1>| 2>|
+
+PID: 64560 END: 1775556763874886912 :git command None ['git', 'config', '--file', '/Users/martin/.gitconfig', '--includes', '--null', '--list'] with debug: : git config --file /Users/martin/.gitconfig --includes --null --list 1>| 2>|
+
+PID: 64560 START: 1775556763889798912 :git command None ['git', 'config', '--file', '/Users/martin/Documents/Full-Stack Learning/Deployment and DevOps/MyWebApp/.repo/repo/.git/config', '--includes', '--null', '--list'] with debug: : git config --file /Users/martin/Documents/Full-Stack Learning/Deployment and DevOps/MyWebApp/.repo/repo/.git/config --includes --null --list 1>| 2>|
+
+PID: 64560 END: 1775556763895576064 :git command None ['git', 'config', '--file', '/Users/martin/Documents/Full-Stack Learning/Deployment and DevOps/MyWebApp/.repo/repo/.git/config', '--includes', '--null', '--list'] with debug: : git config --file /Users/martin/Documents/Full-Stack Learning/Deployment and DevOps/MyWebApp/.repo/repo/.git/config --includes --null --list 1>| 2>|
+
+PID: 64560 START: 1775556763896097024 :git command /Users/martin/Documents/Full-Stack Learning/Deployment and DevOps/MyWebApp/.repo/repo/.git ['git', 'describe', 'HEAD'] with debug: : export GIT_DIR=/Users/martin/Documents/Full-Stack Learning/Deployment and DevOps/MyWebApp/.repo/repo/.git
+: git describe HEAD 1>| 2>|
+
+PID: 64560 END: 1775556763907703040 :git command /Users/martin/Documents/Full-Stack Learning/Deployment and DevOps/MyWebApp/.repo/repo/.git ['git', 'describe', 'HEAD'] with debug: : export GIT_DIR=/Users/martin/Documents/Full-Stack Learning/Deployment and DevOps/MyWebApp/.repo/repo/.git
+: git describe HEAD 1>| 2>|
+
+PID: 64560 START: 1775556763908016896 :git command /Users/martin/Documents/Full-Stack Learning/Deployment and DevOps/MyWebApp/.repo/repo/.git ['git', 'log', '-1', '--format=%cD', 'HEAD'] with debug: : git log -1 --format=%cD HEAD 1>| 2>|
+
+PID: 64560 END: 1775556763918001920 :git command /Users/martin/Documents/Full-Stack Learning/Deployment and DevOps/MyWebApp/.repo/repo/.git ['git', 'log', '-1', '--format=%cD', 'HEAD'] with debug: : git log -1 --format=%cD HEAD 1>| 2>|
+
+PID: 64560 START: 1775556763922185984 :git command /Users/martin/Documents/Full-Stack Learning/Deployment and DevOps/MyWebApp/.repo/repo/.git ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 64560 END: 1775556763927504896 :git command /Users/martin/Documents/Full-Stack Learning/Deployment and DevOps/MyWebApp/.repo/repo/.git ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 64560 END: 1775556763927719936 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: version [sid=repo-20260407T101243Z-P0000fc30/repo-20260407T101243Z-P0000fc30]
+
+PID: 64587 START: 1775556766076657920 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: init [sid=repo-20260407T101245Z-P0000fc4b/repo-20260407T101246Z-P0000fc4b]
+
+PID: 64587 START: 1775556766107661056 :git command None ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 64587 END: 1775556766113989888 :git command None ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 64587 END: 1775556766114182912 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: init [sid=repo-20260407T101245Z-P0000fc4b/repo-20260407T101246Z-P0000fc4b]
+
